@@ -1,25 +1,25 @@
-# 👋 Olá, eu sou Mateus
+# 👋 Hi, I'm Mateus
 
-🎯 Estudante de Ciência da Computação com foco em **Cibersegurança / Pentest**  
-🛠 Praticando em **TryHackMe** e **Hack The Box**  
+🎯 Computer Science student focused on Cybersecurity / Pentesting
+🛠 Practicing on TryHackMe and Hack The Box 
 
 ---
 
-## 🧠 Áreas de Interesse
-- Pentest Web
-- Enumeração e Exploração de Serviços
-- Privilege Escalation (Linux)
-- CTFs e Segurança Ofensiva
+## 🧠 Areas of Interest
+-Web Pentesting
+-Service Enumeration & Exploitation
+-Privilege Escalation (Linux)
+-CTFs & Offensive Security
 
 ---
 
 ## 🧪 Labs & Writeups
-📌 Repositório com writeups:
+📌 Repository with writeups:
 👉 [Writeups](https://github.com/Matscc/Writeups)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/mateus-silva-1286b23a2/)
 - Email: (maateussantana2000@gmail.com)
 
