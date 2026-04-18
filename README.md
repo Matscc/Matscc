@@ -13,18 +13,8 @@
 
 ---
 
-## 🛠 Ferramentas e Tecnologias
-- Linux (Kali / Ubuntu)
-- Nmap, Gobuster, Nikto
-- Burp Suite
-- Metasploit
-- John The Ripper, Hydra
-- Bash & Python 
-
----
-
 ## 🧪 Labs & Writeups
-📌 Repositório com writeups de máquinas resolvidas:  
+📌 Repositório com writeups:
 👉 [Writeups](https://github.com/Matscc/Writeups)
 
 ---
